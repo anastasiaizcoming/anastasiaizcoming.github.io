@@ -1,0 +1,53 @@
+# Site settings
+title: Anastasia
+email: davidtorresp5@gmail.com
+url: https://example.github.io
+description: "I love adventures with Littencio."
+skills: "Flamethrower - Slash - Tackle"
+meta_author: LastName FirstName
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: Anastasia
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: Anastasia
+  location: Where am I?
+  social: Social
+  credits: Info
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Right behind you!
+
+# Credits content
+credits: 'New adventures each month!'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
