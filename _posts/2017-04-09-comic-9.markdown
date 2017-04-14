@@ -1,0 +1,7 @@
+---
+layout: default
+modal-id: 6
+img: anastasia_6.png
+description: In this...
+
+---
